@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Frameworks for Effective Problem Solving",
+    "link": "https://www.analyticsvidhya.com/courses/frameworks-for-effective-problem-solving",
+    "image_url": "https://import.cdn.thinkific.com/118220/zdlLMkFXQjuKiItB273o_Thumbnail%201.jpg",
+    "price": "Free"
+  },
+  {
+    "title": "Anyone can Build AI Agents - Free Course",
+    "link": "https://www.analyticsvidhya.com/courses/your-ultimate-guide-to-becoming-an-agentic-ai-expert-by-2025",
+    "image_url": "https://import.cdn.thinkific.com/118220/HDiuucWOTp2G0PDvjEQm_build%20your%20first%20agent%20using%20no%20code%20tools%20(1).jpg",
+    "price": "Free"
+  },
+  {
+    "title": "A Comprehensive Learning Path to Become a Data Analyst in 2025",
+    "link": "https://www.analyticsvidhya.com/courses/a-comprehensive-learning-path-to-become-a-data-analyst-in-2025",
+    "image_url": "https://import.cdn.thinkific.com/118220/qdmHBCw7Qtqw2Y9g0vOE_Become%20a%20GenAI%20Expert%20in%202025.%20Thumbnail.jpg",
+    "price": "Free"
+  },
+  {
+    "title": "Reimagining GenAI: Common Mistakes and Best Practices for Success",
+    "link": "https://www.analyticsvidhya.com/courses/reimagining-genai-common-mistakes-and-best-practices-for-success",
+    "image_url": "https://import.cdn.thinkific.com/118220/ky8mTd5ISIypAcrVJkdO_unnamed%20(4).jpg",
+    "price": "Free"
+  },
+  {
+    "title": "Coding a ChatGPT-style Language Model from Scratch in PyTorch",
+    "link": "https://www.analyticsvidhya.com/courses/coding-a-chatgpt-style-language-model-from-scratch-in-pytorch",
+    "image_url": "https://import.cdn.thinkific.com/118220/Q1tYD2LSlaLzL1XPZWgw_1Mastering%20Multilingual%20GenAI%20Open-Weights%20for%20Indic%20Languages%20copy.png",
+    "price": "Free"
+  },
+  {
+    "title": "Mastering Multilingual GenAI Open-Weights for Indic Languages",
+    "link": "https://www.analyticsvidhya.com/courses/mastering-multilingual-genai-open-weights-for-indic-languages",
+    "image_url": "https://import.cdn.thinkific.com/118220/beC0zMfQhOnHcT2FLR4g_unnamed%20(2).jpg",
+    "price": "Free"
+  },
+  {
+    "title": "Learning Autonomous Driving Behaviors with LLMs & RL",
+    "link": "https://www.analyticsvidhya.com/courses/learning-autonomous-driving-behaviors-with-llms-and-rl",
+    "image_url": "https://import.cdn.thinkific.com/118220/lrzfD3upSjb0iUOrJcOo_unnamed%20(1).jpg",
+    "price": "Free"
+  },
+  {
+    "title": "GenAI Applied to Quantitative Finance: For Control Implementation",
+    "link": "https://www.analyticsvidhya.com/courses/genai-applied-to-quantitative-finance-for-control-implementation",
+    "image_url": "https://import.cdn.thinkific.com/118220/0hkgoKCKTnKKxhQGAEIp_govind_av_httpss.mj.runER3kgo8rubs_based_on_this_theme_create_b2190701-9e82-47ea-b65a-c52d6de94e07_3.png",
+    "price": "Free"
+  },
+  {
+    "title": "Navigating LLM Tradeoffs: Techniques for Speed, Cost, Scale & Accuracy",
+    "link": "https://www.analyticsvidhya.com/courses/navigating-llm-tradeoffs-techniques-for-speed-cost-scale-and-accuracy",
+    "image_url": "https://import.cdn.thinkific.com/118220/SV5jeKd1Q4iFyzMlUSdw_Thumbnail.png",
+    "price": "Free"
+  }
+]

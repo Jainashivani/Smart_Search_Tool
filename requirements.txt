@@ -1,0 +1,8 @@
+beautifulsoup4
+requests
+langchain
+llama-index
+gradio
+sentence-transformers
+numpy
+faiss-cpu
